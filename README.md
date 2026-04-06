@@ -1,19 +1,24 @@
 ### Kavita Herur
-**Consultant Technical Lead @ Societe Generale**
 
-Currently working as a DevOps consultant for data pipelines on **Snowflake**, 
-**Databricks**, **Azure**, and **AWS**. Prior experience in **Java** and 
-**Angular** full-stack development.
+<sub> I'm a Consultant Technical Lead at Societe Generale, where I spend most of my <br>
+time wrangling data pipelines across **Snowflake**, **Databricks**, **Azure**, <br>
+and **AWS** — basically making sure data gets from A to B without drama 😄 </sub>
 
-----
+<sub> Before I got deep into the data & cloud world, I was a **Java & Angular dev**  <br>
+for several years — wrote a lot of code, broke a few things, fixed even more, <br>
+and eventually led teams to do the same (but better 🚀). </sub>
 
-### 🔭 Currently Exploring
-- Databricks data pipelines & automation
-- Databricks GenAI features
-- Azure AI Foundry projects
+---------
+
+### 🔭 What I'm Currently Exploring
+<sub>My GitHub is basically my playground where I mess around with things I find exciting:</sub> <br>
+<sub>- 🛠️ Building **Databricks data pipelines** and figuring out how far I can push the automation </sub> <br>
+<sub>- 🤖 Playing around with **Databricks GenAI features** — LLMs, AI integrations, all of it. </sub> <br>
+<sub>- ☁️ Exploring **Azure AI Foundry** to see what's possible with enterprise AI </sub> <br>
 
 ---
 
-### 📫 Connect
+### 📫 Let's Connect!
+<sub>Always happy to chat about data, cloud, or just tech in general 🙌 </sub> <br>
 https://www.linkedin.com/in/kavita-herur-2207b654/
 
